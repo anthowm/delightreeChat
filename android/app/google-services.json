@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794053145153",
+    "firebase_url": "https://chatapp-ee4d7-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-ee4d7",
+    "storage_bucket": "chatapp-ee4d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794053145153:android:19447fee4dfcd77f6eccc0",
+        "android_client_info": {
+          "package_name": "com.delightree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794053145153-ugcfacm71g5hk5o97ual385u9rn51p4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnS9TDiXF0uelAQvUBfy2Jjz7fYJh9d5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794053145153-ugcfacm71g5hk5o97ual385u9rn51p4g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "794053145153-ap5p5p5ime8kfuu560hhd3ccnqlnqauv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
